@@ -1,0 +1,5 @@
+numpy~=1.26.4
+PyAudio~=0.2.14
+sounddevice~=0.4.7
+TTS~=0.22.0
+keyboard~=0.13.5
